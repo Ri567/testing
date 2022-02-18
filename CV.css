@@ -1,0 +1,75 @@
+#PARNET {
+  box-shadow: 7px 7px 10px #555555;
+}
+
+p {
+  vertical-align: top;
+}
+
+.MAINBOX {
+  padding-left: 25px;
+  padding-right: 25px;
+  vertical-align: top;
+}
+
+#INFORMA{
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-top: 12px;
+  padding-bottom: 8px;
+}
+
+#PFP {
+  width: 180px;
+  height: 190px;
+  background-size: 200px 200px;
+  ;
+}
+
+
+
+#NAME{
+  width: 400px;
+  height: 80px;
+  font-size: 50px;
+}
+
+#JOBTITLE {
+  vertical-align: center;
+  padding-left: 25px;
+}
+
+.INFORM {
+  padding-left: 8px;
+  align-self: center;
+}
+
+.ICON {
+  height: 27px;
+  width: 27px;
+}
+
+.BAR {
+  height: 15px;
+  width: 145px;
+}
+
+.SKILLTITLE {
+  font-size: 10px;
+}
+
+.SKILLCIRCLE {
+  align-self: center;
+}
+
+#SKILLBOX {
+  padding-left: 25px;
+  padding-right: 25px;
+  vertical-align: top;
+  padding-bottom: 50px;
+}
+
+.CIRCLE {
+  height: 130px;
+  width: 130px;
+}
